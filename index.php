@@ -2,7 +2,7 @@
 $_SESSION['extra'] = '';
 
 ?>
-
+<!-- TEST -->
 <!doctype html>
 <html lang="en"> 
   <head>

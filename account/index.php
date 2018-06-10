@@ -21,7 +21,7 @@
   <body>
 	
 	<?php 
-	$_SESSION['extra'] =  '<li class="nav-item"><a class="nav-link" href="#">Log Out</a></li>';
+	$_SESSION['extra'] =  '<li class="nav-item"><a class="nav-link" href="/">Log Out</a></li>';
 	include("../header.php");
 	$_SESSION['cc'] = base64_decode($_REQUEST['l']);
 	$_SESSION['amount'] = '$' . base64_decode($_REQUEST['a']);

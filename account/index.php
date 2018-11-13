@@ -98,6 +98,57 @@
 						
 					</tbody>
 				</table>
+
+				<div class="row">
+					
+					<div class="col">
+					
+
+						<div class="card">
+							<div class="card-body">
+								<h4 class="class-title">What's your Credit Score?</h4>
+								</p>Find out what your credit score is right now, seriousy it's really easy.</p>
+								<a href="#">Learn More</a>
+							</div>
+						</div>
+					
+					</div>
+					
+					<div class="col">
+					
+
+						<div class="card">
+							<div class="card-body">
+								<h4 class="class-title">Join AARP Rewards</h4>
+								</p>You could be saving serious coin on everyday purchases.
+								</p>
+								<a href="#">Learn More</a>
+							</div>
+						</div>
+					
+					</div>
+					
+					<div class="col">
+					
+
+						<div class="card">
+							<div class="card-body">
+								<h4 class="class-title">Record Low Interest Rates</h4>
+								</p>You're already approved. It takes just a moment to open an account</p>
+								<a href="#">Learn More</a>
+							</div>
+						</div>
+					
+					</div>
+					
+					
+					<div class="spacer"></div>
+					
+					
+
+					<button class="btn btn-warning">Contact Support</button>
+		
+				</div>
 			</div>
 		
 			
@@ -190,67 +241,6 @@
 				</table>
 
 			</div>
-		
-		<div class="row">
-					
-					<div class="col">
-					
-
-						<div class="card">
-							<div class="card-body">
-								<h4 class="class-title">What's your Credit Score?</h4>
-								</p>Find out what your credit score is right now, seriousy it's really easy.</p>
-								<a href="#">Learn More</a>
-							</div>
-						</div>
-					
-					</div>
-					
-					<div class="col">
-					
-
-						<div class="card">
-							<div class="card-body">
-								<h4 class="class-title">Join AARP Rewards</h4>
-								</p>You could be saving serious coin on everyday purchases.
-								</p>
-								<a href="#">Learn More</a>
-							</div>
-						</div>
-					
-					</div>
-					
-					<div class="col">
-					
-
-						<div class="card">
-							<div class="card-body">
-								<h4 class="class-title">Record Low Interest Rates</h4>
-								</p>You're already approved. It takes just a moment to open an account</p>
-								<a href="#">Learn More</a>
-							</div>
-						</div>
-					
-					</div>
-					
-					
-					<div class="spacer"></div>
-					
-					
-
-					<button class="btn btn-warning">Contact Support</button>
-					
-				</div>
-		
-		
-		
-		</div>
-		
-		
-		
-		<div id="footer">
-			&copy; Copyright 2018 This fake bank is intended to waste your time.
-		</div>
 
 	</div>
 	
@@ -264,8 +254,3 @@
 	<script type="text/javascript" src="/script.js"></script>
   </body>
 </html>
-
-
-
-
-

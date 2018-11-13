@@ -25,7 +25,7 @@ $(document).ready(function(){
 				
 				
 				
-				location.href = "http://localhost/account?a=" + btoa(amt) + "&l=" + btoa(last);
+				location.href = "/account?a=" + btoa(amt) + "&l=" + btoa(last);
 				
 				}
 				
